@@ -75,11 +75,7 @@ To run the To-Do List App, perform the following actions:
 * __Home Page (http://localhost:3000):__ This is the default page that shows the "Today" list. 
 You can add new items to the list by typing in the input field and clicking the "+" button.
 
-* __Custom Lists:__ You can create custom lists by adding a name in the URL (e.g., http://localhost:3000/work). You can then add items to the custom list and access it using the specified name.
-
 * __Deleting Items:__ To delete an item, click on the checkbox next to the item. It will be marked as completed and automatically removed from the list.
-
-* __About Page (http://localhost:3000/about):__ This page provides information about the To-Do List application.
 
 ## Project Structure
 The project structure is as follows:
