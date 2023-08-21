@@ -72,7 +72,7 @@ To run the To-Do List App, perform the following actions:
    nodemon app.js
    ```
 
-7. Open a web browser and navigate to [localhost:3000](http://localhost:3000) to access the application. Use [localhost:3000/work](http://localhost:3000/work) and whatever you want to create new todo list.
+7. Open a web browser and navigate to [localhost:3000](http://localhost:3000) to access the application.
 
 ## Usage
 * __Home Page (http://localhost:3000):__ This is the default page that shows the "Today" list. 
